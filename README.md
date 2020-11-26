@@ -1,4 +1,4 @@
-# Telegram-Reminder-Bot
+# Telegram Reminder Bot
 A Telegram Bot which serves as a reminder for your meetings, appointments, events etc.
 
 ```/start -> add a new reminder```
