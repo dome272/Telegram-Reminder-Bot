@@ -5,3 +5,4 @@ A Telegram Bot which serves as a reminder of your meetings, appointments, events
 You can use the bot under: http://t.me/Appointment_Reminder_Bot
 
 ## Demo Video
+<img src="/images/telegram_reminder.gif" width="197" height="426"/>
