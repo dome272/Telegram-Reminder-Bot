@@ -9,7 +9,8 @@ A Telegram Bot which serves as a reminder for your meetings, appointments, event
 You can use the bot under: http://t.me/Appointment_Reminder_Bot
 
 ## Requirements
-```pip install python-telegram-bot```
+* ```pip install python-telegram-bot```
+* telegram api token - place it in [bot.py](https://github.com/dome272/Telegram-Reminder-Bot) on line 202
 
 ## Demo Video
 <img src="/images/telegram_reminder.gif" width="197" height="426"/>
