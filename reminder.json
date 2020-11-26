@@ -1,0 +1,10 @@
+{
+    "reminder": {
+        "test": [{
+                "name": "test_name",
+                "date": "20/11/2020",
+                "time": "8:00am"
+            }
+        ]
+    }
+}
