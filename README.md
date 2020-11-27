@@ -5,6 +5,8 @@ A Telegram Bot which serves as a reminder for your meetings, appointments, event
 
 ```/list -> lists all scheduled future reminders```
 
+```/time -> change your timezone (standard on utc time)```
+
 ## Try the bot
 You can use the bot under: http://t.me/Appointment_Reminder_Bot
 
