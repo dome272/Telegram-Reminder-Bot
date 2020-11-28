@@ -15,7 +15,7 @@ You can use the bot under: http://t.me/Appointment_Reminder_Bot
 * telegram api token - place it in [bot.py](https://github.com/dome272/Telegram-Reminder-Bot/blob/main/bot.py) on line 248
 
 ## Demo Video
-<img src="/images/telegram_reminder.gif" width="197" height="426"/>
+<img src="/video/telegram_reminder.gif" width="197" height="426"/>
 
 ## How it works
 The code uses the telegram.ext ConversationHandler to create a guided and flawless conversation flow. Moreover it uses different other telegram.ext classes
